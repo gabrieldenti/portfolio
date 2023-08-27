@@ -1,6 +1,6 @@
 # Meu primeiro portfolio desenvolvido com os cursos de HTML e CSS da Alura
 
-<img src"=/assets/print_portfolio.png">
+<img src"=./assets/print_portfolio.png">
 
 ## Ferramentas utilizadas:
 
