@@ -1,6 +1,6 @@
 # Meu primeiro portfolio desenvolvido com os cursos de HTML e CSS da Alura
 
-<img src"=./assets/print_portfolio.png">
+<https://github.com/gabrieldenti/portfolio/blob/705cff6dff97191e7d0a322e122ce99f1af3770f/assets/print_portfolio.png>
 
 ## Ferramentas utilizadas:
 
